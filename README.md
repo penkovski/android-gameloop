@@ -1,2 +1,1 @@
-# android-gameloop
-Experiments with different Android game loops
+# Experiments with different Android game loops
